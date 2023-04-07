@@ -6,7 +6,7 @@ For context,
   -pandas
   -numpy
   -matplotlib
-  seaborn
+  -seaborn
   
 1. The dataset 'DelhiClimateWeather.csv' is read.
 2. The algorithm is trained on this dataset to predict it.
