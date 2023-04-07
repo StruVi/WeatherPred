@@ -2,11 +2,12 @@
 
 This is a Project dedicated to use an ML algorithm to predict the weather.
 
-For context,
-  -pandas
-  -numpy
-  -matplotlib
-  -seaborn
+For context
+
+    -pandas
+    -numpy 
+    -matplotlib    
+    -seaborn
   
 1. The dataset 'DelhiClimateWeather.csv' is read.
 2. The algorithm is trained on this dataset to predict it.
